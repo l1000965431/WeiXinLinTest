@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "RLY7H634KT.com.xglm.slm",
+            "paths": ["/l1000965431/WeiXinLinTest/*"]
+            },
+            {
+            "appID": "RLY7H634KT.com.xglm.slm",
+            "paths": ["/WeiXinLinTest/*"]
+        }]
+    }
+}
